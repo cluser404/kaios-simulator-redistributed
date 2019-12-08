@@ -1,0 +1,1 @@
+{"version":["sessionrestore",1],"windows":[{"tabs":[],"selected":0,"_closedTabs":[],"busy":false}],"selectedWindow":1,"_closedWindows":[],"session":{"lastUpdate":1575823842045,"startTime":1575823836314,"recentCrashes":0},"global":{}}

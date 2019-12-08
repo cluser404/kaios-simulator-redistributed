@@ -1,0 +1,4 @@
+search.services.mozilla.com:HSTS	0	18238	1607358039812,1,0
+tiles.services.mozilla.com:HSTS	0	18238	1607358025285,1,0
+shavar.services.mozilla.com:HSTS	0	18238	1607358059129,1,1
+location.services.mozilla.com:HSTS	0	18238	1607358032874,1,1

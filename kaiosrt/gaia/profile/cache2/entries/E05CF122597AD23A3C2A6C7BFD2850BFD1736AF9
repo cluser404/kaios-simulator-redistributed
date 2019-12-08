@@ -1,0 +1,334 @@
+{
+  "TYPES": [
+    "phones",
+    "tablets",
+    "laptops",
+    "televisions"
+  ],
+  "phones": [
+    {
+      "name": "Galaxy Note 3",
+      "featured": false,
+      "width": 360,
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 4.3; en-us; SM-N900T Build/JSS15J) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Mobile Safari/534.30",
+      "touch": true,
+      "os": "",
+      "pixelRatio": 3,
+      "height": 640
+    },
+    {
+      "name": "Galaxy Note 9",
+      "width": 414,
+      "height": 846,
+      "pixelRatio": 3.5,
+      "userAgent": "Mozilla/5.0 (Linux; Android 7.0; SM-G892A Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36",
+      "touch": true,
+      "os": "Android"
+    },
+    {
+      "name": "Galaxy S5",
+      "featured": false,
+      "width": 360,
+      "userAgent": "Mozilla/5.0 (Linux; Android 5.0; SM-G900P Build/LRX21T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile Safari/537.36",
+      "touch": true,
+      "os": "",
+      "pixelRatio": 3,
+      "height": 640
+    },
+    {
+      "name": "Galaxy S9/S9+",
+      "featured": true,
+      "width": 360,
+      "userAgent": "Mozilla/5.0 (Linux; Android 7.0; SM-G892A Build/NRD90M; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36",
+      "touch": true,
+      "os": "Android",
+      "pixelRatio": 4,
+      "height": 740
+    },
+    {
+      "name": "LG Optimus L70",
+      "featured": false,
+      "width": 384,
+      "userAgent": "Mozilla/5.0 (Linux; U; Android 4.4.2; en-us; LGMS323 Build/KOT49I.MS32310c) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/67.0.3396.87 Mobile Safari/537.36",
+      "touch": true,
+      "os": "",
+      "pixelRatio": 1.25,
+      "height": 640
+    },
+    {
+      "name": "Microsoft Lumia 550",
+      "featured": false,
+      "width": 360,
+      "userAgent": "Mozilla/5.0 (Windows Phone 10.0; Android 4.2.1; Microsoft; Lumia 550) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2486.0 Mobile Safari/537.36 Edge/14.14263",
+      "touch": true,
+      "os": "",
+      "pixelRatio": 2,
+      "height": 640
+    },
+    {
+      "name": "Microsoft Lumia 950",
+      "featured": false,
+      "width": 360,
+      "userAgent": "Mozilla/5.0 (Windows Phone 10.0; Android 4.2.1; Microsoft; Lumia 950) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/46.0.2486.0 Mobile Safari/537.36 Edge/14.14263",
+      "touch": true,
+      "os": "",
+      "pixelRatio": 4,
+      "height": 640
+    },
+    {
+      "name": "Nexus 5X",
+      "featured": false,
+      "width": 412,
+      "userAgent": "Mozilla/5.0 (Linux; Android 8.0.0; Nexus 5X Build/OPR4.170623.006) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile Safari/537.36",
+      "touch": true,
+      "os": "",
+      "pixelRatio": 2.625,
+      "height": 732
+    },
+    {
+      "name": "Nexus 6P",
+      "featured": false,
+      "width": 412,
+      "userAgent": "Mozilla/5.0 (Linux; Android 8.0.0; Nexus 6P Build/OPP3.170518.006) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile Safari/537.36",
+      "touch": true,
+      "os": "",
+      "pixelRatio": 3.5,
+      "height": 732
+    },
+    {
+      "name": "Nokia 8110 4G",
+      "width": 240,
+      "height": 320,
+      "pixelRatio": 1,
+      "userAgent": "Mozilla/5.0 (Mobile; Nokia 8110 4G; rv:48.0) Gecko/48.0 Firefox/48.0 KAIOS/2.5",
+      "touch": true,
+      "os": "KaiOS"
+    },
+    {
+      "name": "Pixel 2",
+      "featured": false,
+      "width": 411,
+      "userAgent": "Mozilla/5.0 (Linux; Android 8.0; Pixel 2 Build/OPD3.170816.012) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile Safari/537.36",
+      "touch": true,
+      "os": "",
+      "pixelRatio": 2.625,
+      "height": 731
+    },
+    {
+      "name": "Pixel 2 XL",
+      "featured": false,
+      "width": 411,
+      "userAgent": "Mozilla/5.0 (Linux; Android 8.0.0; Pixel 2 XL Build/OPD1.170816.004) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Mobile Safari/537.36",
+      "touch": true,
+      "os": "",
+      "pixelRatio": 3.5,
+      "height": 823
+    },
+    {
+      "name": "iPhone 5/SE",
+      "featured": false,
+      "width": 320,
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 10_3_1 like Mac OS X) AppleWebKit/603.1.30 (KHTML, like Gecko) Version/10.0 Mobile/14E304 Safari/602.1",
+      "touch": true,
+      "os": "",
+      "pixelRatio": 2,
+      "height": 568
+    },
+    {
+      "name": "iPhone 6/7/8",
+      "featured": true,
+      "width": 375,
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1",
+      "touch": true,
+      "os": "",
+      "pixelRatio": 2,
+      "height": 667
+    },
+    {
+      "name": "iPhone 6/7/8 Plus",
+      "featured": true,
+      "width": 414,
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 11_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/11.0 Mobile/15A372 Safari/604.1",
+      "touch": true,
+      "os": "",
+      "pixelRatio": 3,
+      "height": 736
+    },
+    {
+      "name": "iPhone X/XS",
+      "featured": true,
+      "width": 375,
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/12.0 Mobile/15A372 Safari/604.1",
+      "touch": true,
+      "os": "",
+      "pixelRatio": 3,
+      "height": 812
+    },
+    {
+      "name": "iPhone XR",
+      "featured": false,
+      "width": 414,
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/12.0 Mobile/15A372 Safari/604.1",
+      "touch": true,
+      "os": "",
+      "pixelRatio": 2,
+      "height": 896
+    },
+    {
+      "name": "iPhone XS Max",
+      "featured": false,
+      "width": 414,
+      "userAgent": "Mozilla/5.0 (iPhone; CPU iPhone OS 12_0 like Mac OS X) AppleWebKit/604.1.38 (KHTML, like Gecko) Version/12.0 Mobile/15A372 Safari/604.1",
+      "touch": true,
+      "os": "",
+      "pixelRatio": 3,
+      "height": 896
+    }
+  ],
+  "tablets": [
+    {
+      "name": "Kindle Fire HDX",
+      "featured": true,
+      "width": 800,
+      "userAgent": "Mozilla/5.0 (Linux; U; en-us; KFAPWI Build/JDQ39) AppleWebKit/535.19 (KHTML, like Gecko) Silk/3.13 Safari/535.19 Silk-Accelerated=true",
+      "touch": true,
+      "os": "",
+      "pixelRatio": 2,
+      "height": 1280
+    },
+    {
+      "name": "Nexus 10",
+      "featured": false,
+      "width": 800,
+      "userAgent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 10 Build/MOB31T) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36",
+      "touch": true,
+      "os": "",
+      "pixelRatio": 2,
+      "height": 1280
+    },
+    {
+      "name": "Nexus 7",
+      "featured": false,
+      "width": 600,
+      "userAgent": "Mozilla/5.0 (Linux; Android 6.0.1; Nexus 7 Build/MOB30X) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.87 Safari/537.36",
+      "touch": true,
+      "os": "",
+      "pixelRatio": 2,
+      "height": 960
+    },
+    {
+      "name": "iPad",
+      "featured": true,
+      "width": 768,
+      "userAgent": "Mozilla/5.0 (iPad; CPU OS 11_0 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) Version/11.0 Mobile/15A5341f Safari/604.1",
+      "touch": true,
+      "os": "",
+      "pixelRatio": 2,
+      "height": 1024
+    },
+    {
+      "name": "iPad Mini",
+      "featured": false,
+      "width": 768,
+      "userAgent": "Mozilla/5.0 (iPad; CPU OS 11_0 like Mac OS X) AppleWebKit/604.1.34 (KHTML, like Gecko) Version/11.0 Mobile/15A5341f Safari/604.1",
+      "touch": true,
+      "os": "",
+      "pixelRatio": 2,
+      "height": 1024
+    },
+    {
+      "name": "iPad Pro (10.5-inch)",
+      "width": 834,
+      "height": 1112,
+      "pixelRatio": 2,
+      "userAgent": "Mozilla/5.0 (iPad; CPU OS 11_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.1",
+      "touch": true,
+      "os": "iOS"
+    },
+    {
+      "name": "iPad Pro (12.9-inch)",
+      "width": 1024,
+      "height": 1366,
+      "pixelRatio": 2,
+      "userAgent": "Mozilla/5.0 (iPad; CPU OS 11_4 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/11.0 Mobile/15E148 Safari/604.1",
+      "touch": true,
+      "os": "iOS"
+    }
+  ],
+  "laptops": [
+    {
+      "name": "Laptop with HiDPI screen",
+      "featured": false,
+      "width": 1440,
+      "height": 900,
+      "userAgent": "",
+      "touch": false,
+      "os": "",
+      "pixelRatio": 2
+    },
+    {
+      "name": "Laptop with MDPI screen",
+      "featured": false,
+      "width": 1280,
+      "height": 800,
+      "userAgent": "",
+      "touch": false,
+      "os": "",
+      "pixelRatio": 1
+    },
+    {
+      "name": "Laptop with touch",
+      "featured": false,
+      "width": 1280,
+      "height": 950,
+      "userAgent": "",
+      "touch": true,
+      "os": "",
+      "pixelRatio": 1
+    }
+  ],
+  "televisions": [
+    {
+      "name": "1080p Full HD Television",
+      "width": 1920,
+      "height": 1080,
+      "pixelRatio": 1,
+      "userAgent": "",
+      "touch": false,
+      "os": "custom"
+    },
+    {
+      "name": "4K Ultra HD Television",
+      "width": 3840,
+      "height": 2160,
+      "pixelRatio": 1,
+      "userAgent": "",
+      "touch": false,
+      "os": "custom"
+    },
+    {
+      "name": "720p HD Television",
+      "width": 1280,
+      "height": 720,
+      "pixelRatio": 1,
+      "userAgent": "",
+      "touch": false,
+      "os": "custom"
+    }
+  ]
+}
+Äç‰V{      ]í)â]í)âAn]í‘Ø   2    :https://code.cdn.mozilla.net/devices/devices.json necko:classified 1 security-info FnhllAKWRHGAlo+ESXykKAAAAAAAAAAAwAAAAAAAAEaphjojH6pBabDSgSnsfLHeAAQAAgAAAAAAAAAAAAAAAAAAAAAB4vFIJp5wRkeyPxAQ9RJGKPqbqVvKO0mKuIl8ec8o/uhmCjImkVxP+7sgiYWmMt8FvcOXmlQiTNWFiWlrbpbqgwAAAAAAAAU6MIIFNjCCBB6gAwIBAgIQDKnGQ2G/ySp5sd2c+55I7DANBgkqhkiG9w0BAQsFADBNMQswCQYDVQQGEwJVUzEVMBMGA1UEChMMRGlnaUNlcnQgSW5jMScwJQYDVQQDEx5EaWdpQ2VydCBTSEEyIFNlY3VyZSBTZXJ2ZXIgQ0EwHhcNMTYxMTAzMDAwMDAwWhcNMjAwMjAxMTIwMDAwWjB0MQswCQYDVQQGEwJVUzETMBEGA1UECBMKQ2FsaWZvcm5pYTEWMBQGA1UEBxMNTW91bnRhaW4gVmlldzEcMBoGA1UEChMTTW96aWxsYSBDb3Jwb3JhdGlvbjEaMBgGA1UEAwwRKi5jZG4ubW96aWxsYS5uZXQwggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQDNIU14XnpwQVunAhMzVS+lwRxj5K81HPtSPp3wL5Zx/hyRN/GF45H2eGFBKfvUEf7jis6tm/I8SN/7aN44p0AerR53pzA2Ut8NCjpxbMuJF6XvY2yv/g/tu3ZZjBIKn/IgR/Oyd4FSOdpDjGUM8W12RSaeiQUHC1DuMYKwnPouDijzodMXPDa7O91sahW87t6lKnS7E9CgNdku5lxFTOe480Ic9yd+clJNZZ6dNtnwYfrKaqxyZQAyBD0SNsk4WepelD+VBojDjN3Mc7rMwB67TDnq1MYiQI/lDf8h9Uzpte1iH/PQxX0pMfLxQ7bcjx7LoL6bId3N93a/2+sD3RpLAgMBAAGjggHpMIIB5TAfBgNVHSMEGDAWgBQPgGEcgjFh1S8o541GOLQs4cbZ4jAdBgNVHQ4EFgQUM8CY0nNQNDM7/3c5KcxAZpQKdD0wLQYDVR0RBCYwJIIRKi5jZG4ubW96aWxsYS5uZXSCD2Nkbi5tb3ppbGxhLm5ldDAOBgNVHQ8BAf8EBAMCBaAwHQYDVR0lBBYwFAYIKwYBBQUHAwEGCCsGAQUFBwMCMGsGA1UdHwRkMGIwL6AtoCuGKWh0dHA6Ly9jcmwzLmRpZ2ljZXJ0LmNvbS9zc2NhLXNoYTItZzUuY3JsMC+gLaArhilodHRwOi8vY3JsNC5kaWdpY2VydC5jb20vc3NjYS1zaGEyLWc1LmNybDBMBgNVHSAERTBDMDcGCWCGSAGG/WwBATAqMCgGCCsGAQUFBwIBFhxodHRwczovL3d3dy5kaWdpY2VydC5jb20vQ1BTMAgGBmeBDAECAjB8BggrBgEFBQcBAQRwMG4wJAYIKwYBBQUHMAGGGGh0dHA6Ly9vY3NwLmRpZ2ljZXJ0LmNvbTBGBggrBgEFBQcwAoY6aHR0cDovL2NhY2VydHMuZGlnaWNlcnQuY29tL0RpZ2lDZXJ0U0hBMlNlY3VyZVNlcnZlckNBLmNydDAMBgNVHRMBAf8EAjAAMA0GCSqGSIb3DQEBCwUAA4IBAQCOU7nHjEm9JLhlTUJk1LFR9AQVVXWHVaL4yrlEy2tDds1vs2z3NnVtXXg5BgH8uDstKWAk9IbAgVgIWCwAMqO2KyjXqIU9JMVw9wNUNY6dyI3YDWB9Nwl9YAz3lxTaoJPSqH34z9YnhpztRoZ8m0Z+iZAveNjC2NMQbPIL/+O81kRKuWADXCFRSeo0XYsHnguBTu5Nlgi6X6o16u/Ba7pI1gFN2kLXfkRugMGrIpNVjfAn/dcR5pdKpXE+KzCqt3nxRhfEXTvkGazSBJoZLlv7t7ykefzurXpAW0I9sYSZtHJK3MxZNxviZzQOEEosq7Q+2aybYrPqSfBUVp12dF+rwC8AAwAAAAABAQAA request-method GET response-head HTTP/1.1 200 OK
+Content-Type: application/json
+Content-Length: 9479
+Last-Modified: Mon, 14 Oct 2019 12:05:28 GMT
+Accept-Ranges: bytes
+Server: AmazonS3
+Date: Sun, 08 Dec 2019 00:14:19 GMT
+Etag: "a29e6071baea46f62d38ff6c1e3245ec"
+Cache-Control: max-age=86400
+X-Cache: Hit from cloudfront
+via: 1.1 84a8283bcf12d6659a335b8d00e9c15b.cloudfront.net (CloudFront)
+x-amz-cf-pop: SIN2-C1
+x-amz-cf-id: UZxpzZMBA_kxZGRdP5lBCdQZBtZZ6PgHFzLPbV29x0U8EyN8CvUouQ==
+Age: 57952
+   %

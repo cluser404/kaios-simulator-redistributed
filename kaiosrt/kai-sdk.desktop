@@ -1,0 +1,12 @@
+[Desktop Entry]
+Version=1.0
+Name=Kai SDK
+GenericName=Software Development Kit
+Comment=Develop apps for the Kai operating system
+Keywords=sdk;kai;kaios;
+Exec=/opt/kaiosrt/kaiosrt
+Icon=phone
+Terminal=false
+Type=Application
+StartupNotify=true
+Categories=Development;
