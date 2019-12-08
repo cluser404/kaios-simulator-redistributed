@@ -3,12 +3,7 @@ KaiOS simulator. Redistributed with a valid desktop file for Linux.
 
 ### Setup Procedure
 
-1.Extract kaiosrt.tar.gz archive
-```sh
-tar xvzf kaiosrt.tar.gz
-```
-
-2.Copy the kaiosrt folder to '/opt' of your distro.
+1.Copy the kaiosrt folder to '/opt' of your distro.
 ```sh
 sudo cp kaiosrt /opt
 ```
